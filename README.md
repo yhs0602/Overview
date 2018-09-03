@@ -1,11 +1,7 @@
-# Overview
+ # Overview
 Overview of my projects
 
-# Contents of this account
-
-
-**My projects**
-
+# Contents of this account and not uploaded projects
  1. Hello world - it prints in a console.
  2. Iris - my first Win32 GUI game. Its a game that flies an warplane.
  3. SangyeopVirus - My first Windows service. It kills Lol.exe periodically. I made it for a friend of mine.
@@ -22,4 +18,5 @@ Overview of my projects
  14. [ChromeFix][8] - An android backup utility that backups chrome browser's offline pages.
  15. [PDF2TXT][9] - An android offline pdf to txt converter.
  16. WikiIndexer - A desktop application that parses wikipedia articles in text(preprocessed by html2txt) and generates index files.
- 17. Htm2txt - A desktop application that con
+ 17. Htm2txt - A desktop application that converts html files to txt files.
+
